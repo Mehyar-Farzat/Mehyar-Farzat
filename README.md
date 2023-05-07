@@ -1,24 +1,54 @@
- #  About Me:
-Hi, I’m Mehyar-Farzat<br>- 👀 I’m interested in front-End and Back-End Development<br>- 🌱 I’m currently learning Python Development<br>- 💞️ I’m looking to collaborate with all Developers
+![image](https://user-images.githubusercontent.com/124469846/236690310-a15a6174-8b88-43c4-a30a-33fe69d60684.png)
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mehyar-Farzat) 
-
-# Skills
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 
-![](https://github-readme-stats.vercel.app/api?username=Mehyar-Farzat&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mehyar-Farzat&theme=chartreuse-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehyar-Farzat&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### <font size= "7"> Hey there, I'm  Mehyar </font>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px" width="50px">
+
+
+<h2 align="center">I am a junior full-stack developer , I have skills using python, responsive front-end,html, CSS, java script, git, GitHub.</h2>
+
+<br>
+<br>
 
 
 
-![](https://github-profile-trophy.vercel.app/?username=Mehyar-Farzat&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+-  I’m currently working on **Mystro mbHG**
+
+-  I’m currently learning **Python Development**
+
+-  I’m looking to collaborate on **with all Developers**
+
+-  All of my projects are available at [https://github.com/Mehyar-Farzat](https://github.com/Mehyar-Farzat)
+
+-  How to reach me **mehyar.farzat@gmail.com**
+<br>
+<br>
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/mehyar-farzat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehyar-farzat" height="40" width="40" /></a>
+</p>
+<br>
 
 
-Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mehyar-Farzat&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+<h3 align="left">Languages and Tools:</h3>
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehyar-farzat" alt="mehyar-farzat" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehyar-farzat&show_icons=true&locale=en&layout=compact" alt="mehyar-farzat" /></p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehyar-farzat&show_icons=true&locale=en" alt="mehyar-farzat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehyar-farzat&" alt="mehyar-farzat" /></p>
