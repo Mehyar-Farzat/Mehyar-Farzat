@@ -1,10 +1,7 @@
-![image](https://user-images.githubusercontent.com/124469846/236690310-a15a6174-8b88-43c4-a30a-33fe69d60684.png)
 
 
 
-
-
-### <font size= "7"> Hey there, I'm  Mehyar </font>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px" width="50px">
+### <h1 align="center"> Hey there, I'm  Mehyar </font>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px" width="50px">
 
 
 <h2 align="center">I am a junior full-stack developer , I have skills using python, responsive front-end,html, CSS, java script, git, GitHub.</h2>
