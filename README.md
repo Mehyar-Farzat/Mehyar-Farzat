@@ -11,7 +11,7 @@
 
 
 
--  I’m currently working on **Mystro mbHG**
+-  I’m currently working on **Mystro GmbH**
 
 -  I’m currently learning **Python Development**
 
