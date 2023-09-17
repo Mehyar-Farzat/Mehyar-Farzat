@@ -13,7 +13,7 @@
 
 -  I’m currently working on **Mystro GmbH**
 
--  I’m currently learning **Python Development**
+-  I’m currently learning **Django-Python Development**
 
 -  I’m looking to collaborate on **with all Developers**
 
