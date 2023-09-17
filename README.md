@@ -40,6 +40,30 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehyar-farzat&show_icons=true&locale=en&layout=compact" alt="mehyar-farzat" /></p>
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Web Developer</p>
+    </header>
+    <section id="projects">
+        <!-- Add your project listings here -->
+    </section>
+    <footer>
+        <p>Contact: your@email.com</p>
+    </footer>
+</body>
+</html>
+
+
 <br>
 <br>
 <br>
