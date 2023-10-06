@@ -4,7 +4,7 @@
 ### <h1 align="center"> Hey there, I'm  Mehyar </font>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px" width="50px">
 
 
-<h2 align="center">I am a junior full-stack developer , I have skills using python, responsive front-end,html, CSS, java script, git, GitHub.</h2>
+<h2 align="center">I am a junior full-stack developer , I have skills using python,Django responsive front-end,html, CSS, java script, git, GitHub.</h2>
 
 <br>
 <br>
