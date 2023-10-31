@@ -17,9 +17,9 @@
 
 -  I’m looking to collaborate on **with all Developers**
 
--  All of my projects are available at [https://github.com/Mehyar-Farzat](https://github.com/Mehyar-Farzat)
+-  https://www.linkedin.com/in/mehyar-farzat/
 
--  How to reach me **mehyar.farzat@gmail.com**
+-  **mehyar.farzat@gmail.com**
 <br>
 <br>
 
