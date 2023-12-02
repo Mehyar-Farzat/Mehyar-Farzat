@@ -55,6 +55,8 @@
 <img width="20" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
 <img width="20" />
+<img src="https://www.chartjs.org/media/logo-title.svg" height="50" alt="alt="https://www.chartjs.org"/>
+<img width="20" />
 </div>
 <br>
 
